@@ -1,0 +1,8 @@
+print bt0.val
+if(bt0.val==1)
+{
+  t0.txt="AÇIK"
+}else if(bt0.val==0)
+{
+  t0.txt="KAPALI"
+}
